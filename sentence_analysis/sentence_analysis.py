@@ -1,4 +1,5 @@
-""""ff"""
+""""takes a strong from a user and counts
+upper case letters, lower case letters, punctuation symbols, and total"""
 
 sentence = input('Please, type in a sentence of your choice: ')
 
